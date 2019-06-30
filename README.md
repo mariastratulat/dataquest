@@ -11,7 +11,7 @@ Skills:
 - Dictionaries and frequency tables.
 - Functions.
   ```
- - [Exploring Hacker News Posts]()
+ - [Exploring Hacker News Posts](https://github.com/mariastratulat/dataquest/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)
 ```
 Skills:
 - How to work with strings.
