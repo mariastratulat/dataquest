@@ -19,3 +19,10 @@ Skills:
 - Dates and times.
 ```
 
+### Data Analysis and Visualization
+ - [Exploring eBay Car Sales Data](https://github.com/mariastratulat/dataquest/blob/master/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
+```
+Skills:
+- Pandas
+- Data cleaning
+```
