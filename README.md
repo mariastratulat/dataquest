@@ -26,3 +26,9 @@ Skills:
 - Pandas
 - Data cleaning
 ```
+ - [Visualizing The Gender Gap in College Degrees](https://github.com/mariastratulat/dataquest/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
+ ```
+ Skills:
+ - Matplotlib
+ - Visualzing data with reduced clutter
+ ```
