@@ -32,3 +32,10 @@ Skills:
  - Matplotlib
  - Visualzing data with reduced clutter
  ```
+ - [Clen and Analyze Employee Exit Surveys](https://github.com/mariastratulat/dataquest/blob/master/Clean%20and%20Analyze%20Employee%20Exit%20surveys.ipynb)
+```
+Skills:
+ - Data cleaning
+ - Data aggregation
+ - Data visualization
+ ```
