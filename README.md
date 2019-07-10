@@ -40,3 +40,5 @@ Skills:
  - Data visualization
  ```
  - [Analyze NYC High School Data](https://github.com/mariastratulat/dataquest/blob/master/Analyzing%20NYC%20High%20School%20Data.ipynb)
+
+ - [Star Wars Survey](https://github.com/mariastratulat/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
