@@ -39,3 +39,4 @@ Skills:
  - Data aggregation
  - Data visualization
  ```
+ - [Analyze NYC High School Data](https://github.com/mariastratulat/dataquest/blob/master/Analyzing%20NYC%20High%20School%20Data.ipynb)
