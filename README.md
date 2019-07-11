@@ -42,3 +42,11 @@ Skills:
  - [Analyze NYC High School Data](https://github.com/mariastratulat/dataquest/blob/master/Analyzing%20NYC%20High%20School%20Data.ipynb)
 
  - [Star Wars Survey](https://github.com/mariastratulat/dataquest/blob/master/Star%20Wars%20Survey.ipynb)
+
+### Working with Data Sources
+ - [Analyzing CIA Factbook Data Using SQLite and Pyhton](https://github.com/mariastratulat/dataquest/blob/master/CIA%20World%20Factbook.ipynb)
+```
+Skills:
+ - Writing queries and running them against the data set
+ - Data visualization
+```
