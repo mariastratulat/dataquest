@@ -50,3 +50,4 @@ Skills:
  - Writing queries and running them against the data set
  - Data visualization
 ```
+ - [Answering Business Questions using SQL](https://github.com/mariastratulat/dataquest/blob/master/Answering%20Business%20Questions%20using%20SQL.ipynb)
