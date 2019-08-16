@@ -55,3 +55,7 @@ Skills:
 ### Probability and Statistics
  - [Fandango Movie Ratings](https://github.com/mariastratulat/dataquest/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)
  - [Finding The Best Market to Advertise In](https://github.com/mariastratulat/dataquest/blob/master/Best%20Market.ipynb)
+
+### Machine Learning
+ - [Predicting Car Price](https://github.com/mariastratulat/dataquest/blob/master/Predicting%20Car%20Price.ipynb)
+
